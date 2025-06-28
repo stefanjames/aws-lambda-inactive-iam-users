@@ -39,8 +39,6 @@ This makes it ideal for:
                           +-------------------+
 ```
 
-*You may also include this as `architecture/grc-lambda-architecture-diagram.png` in your repo.*
-
 ## 🚀 How to Deploy
 
 ### 1. Upload Lambda Code to S3
@@ -132,11 +130,11 @@ aws-lambda-grc-ac2-inactive-iam-users/
 
 | View                | Screenshot                  |
 |---------------------|-----------------------------|
-| Lambda Function     | ![](screenshots/lambda-overview.png) |
-| Test Output         | ![](screenshots/test-output.png)     |
-| CloudWatch Logs     | ![](screenshots/cloudwatch-logs.png) |
-| IAM Role Policy     | ![](screenshots/iam-role-policy.png) |
-| S3 ZIP Upload       | ![](screenshots/s3-upload.png)       |
+| Lambda Function     | ![](https://github.com/stefanjames/aws-lambda-inactive-iam-users/blob/main/lambda-overview.png) |
+| Test Output         | ![](https://github.com/stefanjames/aws-lambda-inactive-iam-users/blob/main/test-output.png)     |
+| CloudWatch Logs     | ![](https://github.com/stefanjames/aws-lambda-inactive-iam-users/blob/main/cloudwatch-logs.png) |
+| IAM Role Policy     | ![](https://github.com/stefanjames/aws-lambda-inactive-iam-users/blob/main/iam-role-policy.png) |
+| S3 ZIP Upload       | ![](https://github.com/stefanjames/aws-lambda-inactive-iam-users/blob/main/s3-upload.png)       |
 
 ## 📁 Evidence Collection
 
